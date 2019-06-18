@@ -1,2 +1,2 @@
 # GeniusDreamWave.github.io
-个人简历
+王海焕的个人简历网站
